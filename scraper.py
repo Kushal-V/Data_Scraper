@@ -27,4 +27,4 @@ conn.commit()
 cur.close()
 conn.close()
 
-print("✅ Selenium + Requests + BS + PostgreSQL done")
+print("Selenium + Requests + BS + PostgreSQL done")
